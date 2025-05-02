@@ -1,0 +1,1 @@
+print("Hello from tache4.py")
